@@ -36,9 +36,3 @@ Here's what the details of your app registration should look like when you are d
 1. From a console, run **mvn package** and **mvn jetty:run** to start up a server
 1. Access `http://localhost:8080`
 
-## Copyright ##
-
-Copyright (c) Microsoft. All rights reserved.
-
-----------
-Connect with me on Twitter [@JasonJohMSFT](https://twitter.com/JasonJohMSFT)
